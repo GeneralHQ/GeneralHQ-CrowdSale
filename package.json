@@ -2,7 +2,7 @@
   "name": "crowdsale",
   "version": "1.0.0",
   "description": "Crowd Sale Blockchain Exercise",
-  "main": "index.js",  
+  "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -41,8 +41,7 @@
     ]
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.10"
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
   }
 }
-
